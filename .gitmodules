@@ -1,0 +1,12 @@
+[submodule "llvm"]
+	path = llvm
+	url = https://github.com/llvm-mirror/llvm
+[submodule "compiler-rt"]
+	path = compiler-rt
+	url = https://github.com/llvm-mirror/compiler-rt
+[submodule "clang"]
+	path = clang
+	url = https://github.com/c2lang/clang.git
+[submodule "c2compiler"]
+	path = c2compiler
+	url = https://github.com/c2lang/c2compiler
